@@ -1,4 +1,4 @@
-**Descripciones de las Situaciones**:
+**Ejercicio Físicas 3D**:
 ---
 
 ### **Situación 1**:
