@@ -191,7 +191,7 @@ El cubo pasa de moverse hacia su "frente" y pasa a desplazarse en el eje Z de la
 **Descripción**: Utilizar el eje “Horizontal” para girar el objetivo y que avance siempre en la dirección hacia adelante.
 
 **GIF:**
-![]()
+![](https://github.com/alu0101493084/II-Pract3/blob/main/II-Pract3%20-%20Ejercicio8.gif)
 
 ---
 
