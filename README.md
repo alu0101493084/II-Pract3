@@ -199,7 +199,7 @@ El cubo pasa de moverse hacia su "frente" y pasa a desplazarse en el eje Z de la
 **Descripción**: Configura el cilindro como un objeto físico, cuando el cubo o la esfera colisionen con él se debe mostrar un mensaje en consola con la etiqueta del objeto que haya colisionado. 
 
 **GIF:**
-![]()
+![](https://github.com/alu0101493084/II-Pract3/blob/main/II-Pract3%20-%20Ejercicio9.gif)
 
 ---
 
@@ -207,7 +207,7 @@ El cubo pasa de moverse hacia su "frente" y pasa a desplazarse en el eje Z de la
 **Descripción**: Configura el cubo como un objeto cinemático y la esfera como un objeto físico. Adapta los scripts del ejercicio 9 para obtener el mismo comportamiento. 
 
 **GIF:**
-![]()
+![](https://github.com/alu0101493084/II-Pract3/blob/main/II-Pract3%20-%20Ejercicio10.gif)
 
 ---
 
@@ -215,7 +215,7 @@ El cubo pasa de moverse hacia su "frente" y pasa a desplazarse en el eje Z de la
 **Descripción**: Configura el cilindro como un objeto de tipo Trigger. Adapta los scripts de los ejercicios anteriores para obtener el mismo comportamiento.
 
 **GIF:**
-![]()
+![](https://github.com/alu0101493084/II-Pract3/blob/main/II-Pract3%20-%20Ejercicio11.gif)
 
 ---
 
