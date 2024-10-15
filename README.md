@@ -1,5 +1,4 @@
 # **Ejercicio Físicas 3D**:
----
 
 ### **Situación 1**:
 **Descripción**: El plano no es un objeto físico. El cubo es un objeto físico y la esfera no. En este caso, el plano y la esfera sólo tendrán collider, mientras que el cubo debe tener Rigidbody. 
@@ -109,3 +108,5 @@
 - La esfera caerá debido a la gravedad, pero no colisionará con el cubo ni con el plano al ser un trigger.
 
 ---
+# **Ejercicios Práctica 3**
+
