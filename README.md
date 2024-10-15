@@ -132,6 +132,27 @@
 **GIF:**
 ![](https://github.com/alu0101493084/II-Pract3/blob/main/II-Pract3%20-%20Ejercicio3.gif)
 
+A) Duplicas las coordenadas de la dirección del movimiento:
+```
+El movimiento del cubo es más rápido.
+```
+B) Duplicas la velocidad manteniendo la dirección del movimiento.
+```
+También aumenta el movimiento del cubo.
+```
+C) La velocidad que usas es menor que 1.
+```
+El cubo cambia su movimiento de sentido.
+```
+D) La posición del cubo tiene y>0.
+```
+El cubo se desplaza en diagonal.
+```
+E) Intercambiar movimiento relativo al sistema de referencia local y el mundial.
+```
+El cubo pasa de moverse hacia su "frente" y pasa a desplazarse en el eje Z de la escena.
+```
+
 ---
 
 ### **Ejercicio 4**:
